@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" src="/assets/images/banner/logo.svg">
+    <img width="300" src="https://billmetal.github.io/landpage-mundo-invertido-stranger-things/assets/images/banner/logo.svg">
 </p>
 
 -------
@@ -78,4 +78,4 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 - [WAI - Web Acessibility Initiative](https://www.w3.org/WAI/)
 - [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
 - [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1) 
-- [Demo]() 
+- [Demo](https://billmetal.github.io/landpage-mundo-invertido-stranger-things) 
